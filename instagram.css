@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.face{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+
+.pass{
+    
+    margin-left: 100px;
+    font-size: px;
+}
+
+.goo img{
+    width: 130px;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+.mic img{
+    width: 130px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+}
+
+.footer a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.footer{
+    /* background-color: rgb(184, 49, 49); */
+    margin-top: 20px;
+    margin-left: 200px;
+    gap: 20px;
+    height: 200px;
+    padding-top: 40px;
+}
+
+.lower{
+    margin-left: -500px;
+}
+
+.dropdown{
+    margin-left: -180px;
+    margin-top: 20px;
+}
+
+.iccn{
+    margin-bottom: 200px;
+}
+
+.imgg img{
+    margin-top: -48px;
+    width: 380px;
+    height: 600px;
+}
